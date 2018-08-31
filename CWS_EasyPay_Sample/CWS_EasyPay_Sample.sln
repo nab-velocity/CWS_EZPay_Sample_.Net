@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWS_EasyPay_Sample", "CWS_EasyPay_Sample.csproj", "{92C72C94-18A6-4CE0-BC65-29B5C9C27927}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_EasyPay_Sample", "..\Test_EasyPay_Sample\Test_EasyPay_Sample.csproj", "{22302C01-9C6A-42CC-8677-17B86B6637F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92C72C94-18A6-4CE0-BC65-29B5C9C27927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C72C94-18A6-4CE0-BC65-29B5C9C27927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C72C94-18A6-4CE0-BC65-29B5C9C27927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C72C94-18A6-4CE0-BC65-29B5C9C27927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22302C01-9C6A-42CC-8677-17B86B6637F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22302C01-9C6A-42CC-8677-17B86B6637F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22302C01-9C6A-42CC-8677-17B86B6637F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22302C01-9C6A-42CC-8677-17B86B6637F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
